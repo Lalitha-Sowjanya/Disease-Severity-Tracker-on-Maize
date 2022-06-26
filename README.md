@@ -6,5 +6,5 @@ It has 4 tables:
 3.Factors table with rows containing factor Id as fid and factor as factor
 4.Severity table with rows containing severity Id as sid, deficiency Id as did,factor Id as fid and severity as severity
 
-<img width="735" alt="Diseaseseverity" src="https://user-images.githubusercontent.com/97443640/172466283-a1ea0877-43a4-46c6-9528-c531b4580a52.png">
+
 
